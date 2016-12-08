@@ -6,6 +6,8 @@
 `GET http://docs.djangoproject.com/search/?q=forms&release=1 HTTP/1.1`
 * URI의 ? 뒷부분에 키=값을 쌍으로 이어붙여 보내고 URI에 길이 제한이 있기 때문에 많은 양의 데이터 보내기 어려움 
 * 전달되는 사용자의 데이터가 브라우저 주소창에 노출되기 때문에 보안상 불리
+
+
 ##POST
 * 리소스 생성
 * 리소스 데이터 추가
